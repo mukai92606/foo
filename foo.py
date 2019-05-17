@@ -24,5 +24,5 @@ class Mother:
 mot1=Mother(-10,10,0.1)
 mot1.display()
 
-mot2 = Mother(-10, 10,1)
-mot2.display()
+#mot2 = Mother(-10, 10,1)
+#mot2.display()
